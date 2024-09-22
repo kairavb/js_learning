@@ -1,0 +1,17 @@
+#label{
+    display: block;
+    font-size: 10em;
+    text-align: center;
+}
+#buttons{
+    text-align: center;
+}
+.button{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: burlywood;
+}
