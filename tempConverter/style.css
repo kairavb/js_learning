@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+#form{
+    text-align: center;
+    background-color: antiquewhite;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+#value{
+    width: 50%;
+    font-size: 2em;
+    border-radius: 10px;
+    border: 2px solid;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.radio{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(242, 91, 91);
+    color: aliceblue;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 15px;
+}
+button:hover{
+    background-color: red;
+}
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+}
