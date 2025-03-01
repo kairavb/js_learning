@@ -38,3 +38,11 @@ h1 {
     font-size: 5rem;
     margin: 30px 0px;
 }
+
+.green, #playerScore {
+    color: green;
+}
+
+.red, #computerScore {
+    color: red;
+}
